@@ -1,1 +1,3 @@
-# Juego_Ivasi-nPirata_2D
+# InvasiónPirataEtapa-6
+
+agregar animaciones
